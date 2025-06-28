@@ -1,7 +1,7 @@
 # 💸 Cash Flow Minimizer   
                      
 A C++ program to **minimize the number of cash transactions** required to settle debts among a group of people.               
-
+                   
 > 🔍 Inspired by the real-world problem where multiple individuals owe money to each other, this tool finds the most optimized way to settle debts with **minimum transactions**, saving time and effort.
 
 ---
