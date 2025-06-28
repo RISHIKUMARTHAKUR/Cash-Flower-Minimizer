@@ -1,4 +1,4 @@
-# 💸 Cash Flow Minimizer
+# 💸 Cash Flow Minimizer   
 
 A C++ program to **minimize the number of cash transactions** required to settle debts among a group of people.
 
